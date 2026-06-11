@@ -1,4 +1,4 @@
-# Blender LAS Point Cloud Importer
+# Blender LAS Point Cloud LIDAR Importer
 
 A Blender addon for importing LAS and LAZ point cloud files as mesh vertices or native point cloud objects. Works out of the box with no dependencies for standard `.las` files — LAZ support available via a one-click install.
 
